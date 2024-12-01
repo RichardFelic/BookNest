@@ -1,5 +1,6 @@
 # BookNest  
 ![alt text](./src/main/resources/assets/badge%20literalura.png)
+
 BookNest is a backend project built with **Java** and **Spring Boot**, designed to create a book catalog by consuming an external API, storing data in a relational database, and providing interactive options for users to explore books and authors.
 ---
 
