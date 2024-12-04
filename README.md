@@ -17,6 +17,7 @@ Menu
 ![alt text](./src/main/resources/assets/menu.png)
 
 Top 10 books by downloads
+
 ![image](https://github.com/user-attachments/assets/66c6a679-6e8e-4614-b9db-fab4fecf9752)
 
 ## Technical Details
